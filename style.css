@@ -13,6 +13,8 @@ body {
   align-items: center;
   padding: 20px;
 }
+img {height:100px;border-radius:150px;
+     width:100px;margin:72px;}
 
 .container {
   width: 100%;
